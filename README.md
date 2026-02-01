@@ -136,19 +136,6 @@ Boas práticas de segurança (API key no backend)
 
 Organização e documentação de projeto
 
-🚀 Possíveis Melhorias Futuras
-Deploy do backend (Render / Railway)
-
-Loader visual no frontend
-
-Tratamento visual de erros
-
-Histórico de buscas
-
-Suporte a múltiplos idiomas
-
-Testes automatizados
-
 👨‍💻 Autor
 Vitor Dutra Melo
 📍 Londres – UK
